@@ -16,7 +16,7 @@ plugins:
   - jekyll-remote-theme
 
 # Site settings
-title:          AElMehdi's Blog
+title:          El Mehdi
 description:    "A collection for personal ideas and thoughts"
 #baseurl:        "/tale"
 url:            "https://aelmehdi.github.io/"
