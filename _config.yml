@@ -1,8 +1,31 @@
+# Author
+author:
+  name:         EL MEHDI ASSIR
+  url:          https://aelmehdi.github.io/
+  email:        assirelmehdi@gmail.com
+
 remote_theme: chesterhow/tale
 
+#Permalinks
 permalink:    /:year-:month-:day/:title
 paginate:     5
 
+#Gems
 plugins:
   - jekyll-paginate
   - jekyll-remote-theme
+
+# Site settings
+title:          AElMehdi's Blog
+description:    "A collection for personal ideas and thoughts"
+#baseurl:        "/tale"
+url:            "https://aelmehdi.github.io/"
+
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
